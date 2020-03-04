@@ -2,15 +2,21 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  background-color: black;
 }
 h2 {
   text-align: center;
   font-size: 70px;
   margin-bottom: 50px;
+  color: white;
+  border-bottom: 5px solid white;
 }
 .col-1 {
-  border: 1px solid black;
+  border: 1px solid lightgreen;
   height: 93px;
+}
+.white {
+  background: white;
 }
 .green {
   background: green;
@@ -32,4 +38,5 @@ footer {
   font-size: 80%;
   font-style: italic;
   text-align: right;
+  color: white;
 }
