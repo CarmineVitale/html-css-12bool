@@ -3,3 +3,25 @@
   padding: 0;
   margin: 0;
 }
+.titolo {
+  text-align: center;
+}
+.col-1 {
+  border: 1px solid black;
+  height: 93px;
+}
+.green {
+  background: green;
+}
+.red {
+  background: red;
+}
+.blue {
+  background: blue;
+}
+.orange {
+  background: orange;
+}
+.yellow {
+  background: yellow;
+}
