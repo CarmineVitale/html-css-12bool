@@ -3,8 +3,10 @@
   padding: 0;
   margin: 0;
 }
-.titolo {
+h2 {
   text-align: center;
+  font-size: 70px;
+  margin-bottom: 50px;
 }
 .col-1 {
   border: 1px solid black;
@@ -24,4 +26,10 @@
 }
 .yellow {
   background: yellow;
+}
+footer {
+  margin-top: 30px;
+  font-size: 80%;
+  font-style: italic;
+  text-align: right;
 }
